@@ -1,8 +1,8 @@
 # SF-Real-Estate-Investment-Analysis
 
-Proptech, the application of technology to real-estate markets, is an innovative domain in the fintech industry. I am assuming an analyst role at a proptech company, they want to offer an instant, one-click service for people to buy properties and then rent them. The company wants to have a trial of this offering in the San Francisco real-estate market. If the service proves popular, they can then expand to other markets.
+In this project, I assume the role of an analyst at a Proptech company. Proptech is the application of technology to real-estate markets. The company wants to create an instant one-click service to buy and then rent properties. The goal is to use data visualization, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities. 
 
-The goal is to use data visualization, including aggregation, interactive visualizations, and geospatial analysis, to find properties in the San Francisco market that are viable investment opportunities.
+I analyzed the neighborhoods in San Francisco based on the changes in trends of number housing units, sales per square foot, and gross rent. Through my analysis I found that there are neighborhoods with potential at being good investments that the company can look at. 
 
 ---
 
@@ -81,7 +81,7 @@ keys to run the first cell. Keep hitting those keys to run each cell after that 
 
 Running this cell will generate a scatter mapbox where the size of the cirles is based on the sale per square foot, while the color is based on the gross rent for neighborhoods in San Francisco. 
 
-![Example]()
+![Example](https://github.com/talibkateeb/SF-Real-Estate-Investment-Analysis/blob/main/Scatter_Mapbox_example.png)
 
 ---
 ## License
